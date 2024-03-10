@@ -1,9 +1,9 @@
 {
-  "name": "hanzo/tea-xyz-quest",
+  "name": "@hanzo_npm/tea-xyz-quest",
   "version": "1.0.0",
   "description": "Quest for tea.xyz",
   "main": "index.js",
-  "author": "@hanzo",
+  "author": "@hanzo_npm",
   "repository": "https://github.com/Phungthientuequoc/tea-xyz-quest",
   "license": "ISC"
 }
